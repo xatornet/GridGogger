@@ -3,7 +3,7 @@ A patch to convert Race Driver Grid exe file from Steam to a LAA-patched Gog one
 
 I've made it this way, because I could not upload the GOG exe file entirely, for obvious reasons. 
 
-IMPORTANT NOTE: As the exe file would be completely transformed to a GOG one, Steam services (not that the game uses them for gameplay or anything) won't work. So other players won't be able to see you playing the game, and I don't know if Steam will track the time you've been playing the game. Take this into consideration in case you really need those things.
+IMPORTANT NOTE: As the exe file would be completely transformed to a GOG one, Steam services (not that the game uses them for gameplay or anything) won't work. ~~So other players won't be able to see you playing the game, and I don't know if Steam will track the time you've been playing the game~~ (this apparently works fine). Take this into consideration in case you really need those things.
 
 ## What exactly does this fix?
 This script patches Steam Race Driver Grid exe file to transform it to GOG's release exe file. It also applies a Large Aware Adress memory patch to it. This way, you get a fully drm-less file that also works properly with DXVK and Special-K, to be able to enable HDR and other stuff. It will also, apply the GridMTFix over all of this.
