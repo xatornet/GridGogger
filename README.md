@@ -23,8 +23,7 @@ If you already have the requirements above done, the fix is easy to apply.
 You can download the fix as is, but in order for Windows to be able to execute powershell scripts, you have to enable it through the admin powershell console. And it's tedious. That's why I've compiled with PS2exe the script into an EXE file. 
 
 Download the file "GridGoggerMTFix.exe" and paste it on the main Race Driver Grid folder, just near the grid.exe file.
-
-[Releases](https://github.com/xatornet/GridMTFix/releases)
+[Releases](https://github.com/xatornet/GridGogger/releases/)
 
 ### 2-Execute GridGoggerMTFix.exe
 Let it do its things
