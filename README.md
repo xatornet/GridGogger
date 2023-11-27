@@ -12,7 +12,9 @@ This script patches Steam Race Driver Grid exe file to transform it to GOG's rel
 This is not for you. Use [GridMTFix](https://github.com/xatornet/GridMTFix) for your release.
 
 ### * Steam Release
-Just download the script, and let it work. NOTE: As the exe is completely changed, Usethe v0.2 release now, be sure to select de Steam exe, it will automatically patch the exe to remove DRM and apply the MTFix. If you don't want the exe file to be converted, just head back to my [GridMTFix](https://github.com/xatornet/GridMTFix).
+Just download the script, and let it work. NOTE: As the exe is completely changed, Usethe v0.2 release now, be sure to select de Steam exe, it will automatically patch the exe to remove DRM and apply the MTFix.
+
+If you don't want the exe file to be converted, just head back to my [GridMTFix](https://github.com/xatornet/GridMTFix).
 
 ## How to apply the fix
 If you already have the requirements above done, the fix is easy to apply.
