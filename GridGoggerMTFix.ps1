@@ -33,9 +33,8 @@ else {
 	Invoke-WebRequest -Uri $gogger -OutFile ".\gogger.vcdiff"
 	Expand-Archive ".\xdelta3.zip" ".\" | Out-Null
 	Delay 3
-	Start-Process -Wait -Filepath ".\xdelta3-3.1.0-x86_64.exe" -ArgumentList "-d gogger.vcdiff" | Out-Null
-	Rename-Item -Path "grid.exe" "grid.steam.bak"
-	Rename-Item -Path "GRIDGOG.exe" "grid.exe"
+ 	Rename-Item -Path "grid.exe" "grid.steam.bak"
+	Start-Process -Wait -Filepath ".\xdelta3-3.1.0-x86_64.exe" -ArgumentList "-d -s grid.steam.bak gogger.vcdiff grid.exe" | Out-Null
 	Write-Host ""
 	Write-Host "Gogger process completed."
 	Remove-Item -Path ".\xdelta3.zip" -Force -ErrorAction SilentlyContinue
