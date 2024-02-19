@@ -12,7 +12,7 @@ This script patches Steam Race Driver Grid exe file or Retail's v1.3 exe file to
 This is not for you. Use [GridMTFix](https://github.com/xatornet/GridMTFix) for your release.
 
 ### * Steam Release
-Just download the SteamGoogger script, and let it work. NOTE: As the exe is completely changed, Usethe v0.2 release now, be sure to select de Steam exe, it will automatically patch the exe to remove DRM and apply the MTFix.
+Just download the WaterVaporGoogger script, and let it work. NOTE: As the exe is completely changed, Usethe v0.2 release now, be sure to select de Steam exe, it will automatically patch the exe to remove DRM and apply the MTFix.
 
 ### * Retail Release
 It's mandatory to update the game to version 1.3. Check your exe file for version details, and if it's not updated, [download the patch from here](https://www.patches-scrolls.de/patch/3317/7) Then, after updating the game, just download the RetailGogger script, and let it work. 
@@ -23,7 +23,7 @@ If you already have the requirements above done, the fix is easy to apply.
 ### 1-Download your version of the fix 
 You can download the fix as is, whether you are using Steam or Retail version, but in order for Windows to be able to execute powershell scripts, you have to enable it through the admin powershell console. And it's tedious. That's why I've compiled with PS2exe the script into an EXE file. 
 
-Download the file "SteamGoggerMTFix.exe" or "RetailGoggerMTFix.exe" based on your game, and paste it on the main Race Driver Grid folder, just near the grid.exe file.
+Download the file "WaterVaporGoggerMTFix.exe" or "RetailGoggerMTFix.exe" based on your game, and paste it on the main Race Driver Grid folder, just near the grid.exe file.
 [Releases](https://github.com/xatornet/GridGogger/releases/)
 
 ### 2-Execute SteamGoggerMTFix.exe/RetailGoggerMTFix.exe
