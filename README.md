@@ -29,7 +29,7 @@ You can download the fix as is, whether you are using Steam or Retail version, b
 Download the file "WaterVaporGoggerMTFix.exe" or "RetailGoggerMTFix.exe" based on your game, and paste it on the main Race Driver Grid folder, just near the grid.exe file.
 [Releases](https://github.com/xatornet/GridGogger/releases/)
 
-### 2-Execute SteamGoggerMTFix.exe/RetailGoggerMTFix.exe
+### 2-Execute SteamGoggerMTFix.exe/RetailGoggerMTFix.exe/ZoomGoggerMTFix.exe
 Let it do its things
 
 ### 3-Run the game and reconfigure it.
