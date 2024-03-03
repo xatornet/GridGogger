@@ -17,6 +17,9 @@ Just download the WaterVaporGoogger script, and let it work. NOTE: As the exe is
 ### * Retail Release
 It's mandatory to update the game to version 1.3. Check your exe file for version details, and if it's not updated, [download the patch from here](https://www.patches-scrolls.de/patch/3317/7) Then, after updating the game, just download the RetailGogger script, and let it work. 
 
+### * Zoom Release
+Apparently, there's an increasing demand for this version of the game, so I've created another gogger for it.
+
 ## How to apply the fix
 If you already have the requirements above done, the fix is easy to apply.
 
