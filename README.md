@@ -3,6 +3,9 @@ A patch to convert Race Driver Grid exe file from Steam to a LAA-patched Gog one
 
 I've made it this way, because I could not upload the GOG exe file entirely, for obvious reasons. 
 
+## Requirements
+This mod is based on powershell, and it's objective is to give modern systems a better support. So **Windows 10/11 with a properly updated powershell is a must**. **Windows 7 won't work for this**, and you'll have to manually do everything the mod does, as no support for these older systems is expected.
+
 IMPORTANT NOTE: As the exe file would be completely transformed to a GOG one, Steam services (not that the game uses them for gameplay or anything) won't work. ~~So other players won't be able to see you playing the game, and I don't know if Steam will track the time you've been playing the game~~ (this apparently works fine). Take this into consideration in case you really need those things.
 
 ## What exactly does this fix?
