@@ -41,4 +41,4 @@ Your settings should be gone. Set them up again.
 ### If everything works, you can now play Race Driver: Grid making the most out of your hardware.
 
 ### * Strong Recommendation
-I really encourage you to pair this fix with [DXVK from Doitsujin](https://github.com/doitsujin/dxvk) if your GPU is Vulkan capable. And if you have HDR, you can use it paired with [Special-K mod](https://www.special-k.info/).
+I really encourage you to pair this fix with [DXVK from Doitsujin](https://github.com/doitsujin/dxvk) if your GPU is Vulkan capable (**USE VERSION 2.4 or lower**).
