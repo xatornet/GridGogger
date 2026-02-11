@@ -1,6 +1,6 @@
 $pingCount = 4
 $xdelta3= "https://github.com/jmacd/xdelta-gpl/releases/download/v3.1.0/xdelta3-3.1.0-x86_64.exe.zip"
-$GridMTFix = "https://github.com/xatornet/GridMTFix/releases/download/v0.1/GridMTFix_Win.zip"
+$GridMTFix = "https://github.com/xatornet/GridMTFix/releases/download/v0.3/GridMTFix-Resources.zip"
 $gogger= "https://github.com/xatornet/GridGogger/raw/main/gogger.vcdiff"
 
 # Function to simulate a delay
@@ -114,3 +114,4 @@ else {
 			Write-Host ""
 			Write-Host "HAPPY GAMING!! GOODBYE :-)"
 			Delay 3
+
